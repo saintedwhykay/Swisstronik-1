@@ -5,7 +5,7 @@ module.exports = {
   networks: {
     swisstronik: {
       url: "https://json-rpc.testnet.swisstronik.com/",
-      accounts: ["line fiction alien pony ship enter kingdom margin noodle expose example measure"],
+      accounts: [""],
     },
   },
 };
